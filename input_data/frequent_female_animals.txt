@@ -1,0 +1,1 @@
+["bitch", "cow", "doe", "duck", "ewe", "goose", "hen", "leopardess", "lioness", "mare", "queen", "sow", "tigress"]
